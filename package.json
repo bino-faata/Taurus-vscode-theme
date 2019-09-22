@@ -1,21 +1,27 @@
 {
-    "name": "taurus",
-    "displayName": "taurus",
-    "description": "Taurus vscode dark theme",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.38.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Taurus",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Taurus-color-theme.json"
-            }
-        ]
-    }
+  "name": "taurus",
+  "displayName": "taurus",
+  "description": "Taurus vscode dark theme",
+  "version": "0.0.1",
+  "publisher": "xyr0z1ne",
+  "icon": "taurus.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Xyr0s1gn/Taurus-vscode-theme"
+  },
+  "engines": {
+    "vscode": "^1.38.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Taurus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Taurus-color-theme.json"
+      }
+    ]
+  }
 }
