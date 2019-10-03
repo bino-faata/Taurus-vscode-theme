@@ -7,6 +7,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
 ## [0.0.2]
 - Fixed some UI colors
 - Changed minimal engine version
+
+## [0.0.3]
+- Changed scrollbar visibility
