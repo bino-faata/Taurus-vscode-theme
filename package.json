@@ -2,7 +2,7 @@
   "name": "taurus",
   "displayName": "taurus",
   "description": "Taurus vscode dark theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "xyr0z1ne",
   "icon": "taurus.png",
   "repository": {
@@ -10,7 +10,7 @@
     "url": "https://github.com/Xyr0s1gn/Taurus-vscode-theme"
   },
   "engines": {
-    "vscode": "^1.38.0"
+    "vscode": "^1.21.0"
   },
   "categories": [
     "Themes"

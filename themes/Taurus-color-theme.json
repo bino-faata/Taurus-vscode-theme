@@ -3,7 +3,7 @@
 	"type": "dark",
 	"colors": {
 		// activityBar
-		"activityBar.background": "#151516",
+		"activityBar.background": "#1D1D1D",
 		"activityBar.border": "#151516",
 		"activityBar.dropBackground": "#151516",
 		"activityBar.foreground": "#aacfd1",
@@ -13,9 +13,9 @@
 		"badge.background": "#FF9713",
 		"badge.foreground": "#000",
 		// button
-		"button.background": "#2a343a",
+		"button.background": "#303030",
 		"button.foreground": "#aacfd1",
-		"button.hoverBackground": "#ff9d00",
+		"button.hoverBackground": "#5C5C5C",
 		// contrast
 		//"contrastActiveBorder": null,
 		"contrastBorder": "#ffffff00",
@@ -31,8 +31,8 @@
 		"diffEditor.removedTextBackground": "#ee3a4333",
 		"diffEditor.removedTextBorder": "#ee3a4355",
 		// dropdown
-		"dropdown.background": "#151516",
-		"dropdown.border": "#151516",
+		"dropdown.background": "#1D1D1D",
+		"dropdown.border": "#3c3c3c",
 		"dropdown.foreground": "#aacfd158",
 		// editor
 		// This is the main background color
@@ -83,13 +83,13 @@
 		"editorGroup.dropBackground": "#5f5f5f58",
 		// editorGroupHeader
 		"editorGroupHeader.noTabsBackground": "#151516",
-		"editorGroupHeader.tabsBackground": "#151516",
+		"editorGroupHeader.tabsBackground": "#1D1D1D",
 		"editorGroupHeader.tabsBorder": "#151516",
 		// editorHoverWidget
 		"editorHoverWidget.background": "#222224",
 		"editorHoverWidget.border": "#5f5f5f58",
-		"editorIndentGuide.background": "#6c7f95",
-		"editorLineNumber.foreground": "#3F4A63",
+		"editorIndentGuide.background": "#424c52",
+		"editorLineNumber.foreground": "#424c52",
 		"editorLink.activeForeground": "#aacfd1",
 		// editorMarkerNavigation
 		"editorMarkerNavigation.background": "#15151633",
@@ -196,9 +196,9 @@
 		"selection.background": "#222E42",
 		// sidebar
 		"sideBar.background": "#151516",
-		"sideBar.border": "#151516",
-		"sideBar.foreground": "#aacfd1",
-		"sideBarSectionHeader.background": "#aacfd115",
+		"sideBar.border": "#1D1D1D",
+		"sideBar.foreground": "#808080",
+		"sideBarSectionHeader.background": "#1D1D1D",
 		"sideBarSectionHeader.foreground": "#98a2ad",
 		"sideBarTitle.foreground": "#98a2ad",
 		// statusBar
@@ -207,7 +207,7 @@
 		"statusBar.debuggingBackground": "#151516",
 		"statusBar.debuggingBorder": "#FF9713",
 		"statusBar.debuggingForeground": "#FF9713",
-		"statusBar.foreground": "#aacfd1",
+		"statusBar.foreground": "#808080",
 		"statusBar.noFolderBackground": "#151516",
 		"statusBar.noFolderBorder": "#151516",
 		"statusBar.noFolderForeground": "#aacfd1",
@@ -216,11 +216,11 @@
 		"statusBarItem.prominentBackground": "#151516",
 		"statusBarItem.prominentHoverBackground": "#151516",
 		// tab
-		"tab.activeBackground": "#383838",
+		"tab.activeBackground": "#151516",
 		"tab.activeForeground": "#aacfd1",
 		"tab.border": "#151516",
 		"tab.activeBorder": "#151516",
-		"tab.inactiveBackground": "#151516",
+		"tab.inactiveBackground": "#1D1D1D",
 		"tab.inactiveForeground": "#9fa6af",
 		"tab.unfocusedActiveForeground": "#9fa6af",
 		"tab.unfocusedInactiveForeground": "#9fa6af",
@@ -260,7 +260,7 @@
 		"textPreformat.foreground": "#FF9713",
 		"textSeparator.foreground": "#151516",
 		"titleBar.activeBackground": "#151516",
-		"titleBar.activeForeground": "#ffffff",
+		"titleBar.activeForeground": "#aacfd1",
 		"titleBar.inactiveBackground": "#151516",
 		"titleBar.inactiveForeground": "#ffffff33",
 		"walkThrough.embeddedEditorBackground": "#151516",
