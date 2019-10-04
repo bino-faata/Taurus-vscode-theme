@@ -7,10 +7,10 @@
 		"activityBar.border": "#151516",
 		"activityBar.dropBackground": "#151516",
 		"activityBar.foreground": "#aacfd1",
-		"activityBarBadge.background": "#FF9713",
+		"activityBarBadge.background": "#E38711",
 		"activityBarBadge.foreground": "#000",
 		// badge
-		"badge.background": "#FF9713",
+		"badge.background": "#E38711",
 		"badge.foreground": "#000",
 		// button
 		"button.background": "#303030",
@@ -18,7 +18,7 @@
 		"button.hoverBackground": "#5C5C5C",
 		// contrast
 		//"contrastActiveBorder": null,
-		"contrastBorder": "#ffffff00",
+		"contrastBorder": "#ffffff09",
 		// debug
 		"debugExceptionWidget.background": "#222224",
 		"debugExceptionWidget.border": "#151516",
@@ -32,7 +32,7 @@
 		"diffEditor.removedTextBorder": "#ee3a4355",
 		// dropdown
 		"dropdown.background": "#1D1D1D",
-		"dropdown.border": "#3c3c3c",
+		"dropdown.border": "#aacfd1",
 		"dropdown.foreground": "#aacfd158",
 		// editor
 		// This is the main background color
@@ -47,7 +47,7 @@
 		// WTF is this one for? I don't know
 		"editor.findRangeHighlightBackground": "#151516",
 		// When you hover over something and a popup shows, this highlights that thing
-		"editor.hoverHighlightBackground": "#FF971333",
+		"editor.hoverHighlightBackground": "#E3871133",
 		// when you have something selected, but have lost focus on the editor
 		"editor.inactiveSelectionBackground": "#003b8b",
 		// current line styles
@@ -58,7 +58,7 @@
 		// This is the standard Select colour
 		"editor.selectionBackground": "#222E42",
 		// This is the colour of the other matching elements
-		"editor.selectionHighlightBackground": "#222E42",
+		"editor.selectionHighlightBackground": "#ffffff41",
 		// if you tab away you can colour it differently, but ill leave this one out
 		// "editor.inactiveSelectionBackground": "",
 		// Word Highlights! This happens when you move your cursor inside a variable
@@ -66,14 +66,14 @@
 		"editor.wordHighlightStrongBackground": "#ffffff21",
 		// and this one is the rest of them
 		"editor.wordHighlightBackground": "#ffffff21",
-		"editorBracketMatch.background": "#151516",
-		"editorBracketMatch.border": "#FF971380",
+		"editorBracketMatch.background": "#a2292978",
+		"editorBracketMatch.border": "#a2292978",
 		"editorCodeLens.foreground": "#aacfd1",
-		"editorCursor.foreground": "#FF9713",
-		"editorError.border": "#151516",
+		"editorCursor.foreground": "#E38711",
+		"editorError.border": "#A22929",
 		"editorError.foreground": "#A22929",
 		// gutter
-		"editorGutter.background": "#15151666",
+		"editorGutter.background": "#151516",
 		"editorGutter.addedBackground": "#3C9F4A",
 		"editorGutter.deletedBackground": "#A22929",
 		"editorGutter.modifiedBackground": "#26506D",
@@ -94,30 +94,30 @@
 		// editorMarkerNavigation
 		"editorMarkerNavigation.background": "#15151633",
 		"editorMarkerNavigationError.background": "#A22929",
-		"editorMarkerNavigationWarning.background": "#FF9713",
+		"editorMarkerNavigationWarning.background": "#E38711",
 		// ruler
 		"editorOverviewRuler.border": "#151516",
-		"editorOverviewRuler.commonContentForeground": "#FF971355",
+		"editorOverviewRuler.commonContentForeground": "#E3871155",
 		"editorOverviewRuler.currentContentForeground": "#ee3a4355",
 		"editorOverviewRuler.incomingContentForeground": "#3ad90055",
 		"editorRuler.foreground": "#151516",
 		// editorSuggestWidget
-		"editorSuggestWidget.background": "#222224",
-		"editorSuggestWidget.border": "#151516",
-		"editorSuggestWidget.foreground": "#aacfd1",
-		"editorSuggestWidget.highlightForeground": "#FF9713",
+		"editorSuggestWidget.background": "#1D1D1D",
+		"editorSuggestWidget.border": "#768722",
+		"editorSuggestWidget.foreground": "#768722",
+		"editorSuggestWidget.highlightForeground": "#E38711",
 		"editorSuggestWidget.selectedBackground": "#151516",
 		// editorWarning
-		"editorWarning.border": "#ffffff00",
-		"editorWarning.foreground": "#FF9713",
+		"editorWarning.border": "#A22929",
+		"editorWarning.foreground": "#E38711",
 		"editorWhitespace.foreground": "#ffffff1a",
 		"editorWidget.background": "#222224",
 		"editorWidget.border": "#151516",
 		"errorForeground": "#A22929",
 		// extensionButton
-		"extensionButton.prominentBackground": "#0088ff",
+		"extensionButton.prominentBackground": "#3277B3",
 		"extensionButton.prominentForeground": "#aacfd1",
-		"extensionButton.prominentHoverBackground": "#ff9d00",
+		"extensionButton.prominentHoverBackground": "#E38711",
 		"focusBorder": "#464646",
 		"foreground": "#aacfd1",
 		// input
@@ -135,10 +135,10 @@
 		// list
 		"list.activeSelectionBackground": "#222E4258",
 		"list.activeSelectionForeground": "#aacfd1",
-		"list.dropBackground": "#15151658",
+		"list.dropBackground": "#151516",
 		"list.focusBackground": "#222E42",
 		"list.focusForeground": "#aacfd1",
-		"list.highlightForeground": "#FF9713",
+		"list.highlightForeground": "#E38711",
 		"list.hoverBackground": "#3d3d3d",
 		"list.hoverForeground": "#aacfd1",
 		"list.inactiveSelectionBackground": "#151516",
@@ -161,11 +161,11 @@
 		"notifications.foreground": "#aacfd1",
 		"notifications.background": "#151516",
 		"notifications.border": "#151516",
-		"notificationLink.foreground": "#FF9713",
+		"notificationLink.foreground": "#E38711",
 		// panel
 		"panel.background": "#151516",
 		"panel.border": "#292929",
-		"panelTitle.activeBorder": "#FF9713",
+		"panelTitle.activeBorder": "#E38711",
 		"panelTitle.activeForeground": "#aacfd1",
 		"panelTitle.inactiveForeground": "#8c95a0",
 		// "peekView
@@ -181,19 +181,19 @@
 		"peekViewResult.selectionForeground": "#ffffff",
 		"peekViewTitle.background": "#151516",
 		"peekViewTitleDescription.foreground": "#aacfd1",
-		"peekViewTitleLabel.foreground": "#FF9713",
+		"peekViewTitleLabel.foreground": "#E38711",
 		// picker
-		"pickerGroup.border": "#151516",
+		"pickerGroup.border": "#3c3c3f",
 		"pickerGroup.foreground": "#aacfd1",
 		// progressBar
-		"progressBar.background": "#FF9713",
+		"progressBar.background": "#E38711",
 		// scrollbar
-		"scrollbar.shadow": "#15151690",
+		"scrollbar.shadow": "#151516",
 		"scrollbarSlider.activeBackground": "#15151690",
 		"scrollbarSlider.background": "#15151690",
 		"scrollbarSlider.hoverBackground": "#3c3c3f",
 		// selection
-		"selection.background": "#222E42",
+		"selection.background": "#3c3c3f",
 		// sidebar
 		"sideBar.background": "#151516",
 		"sideBar.border": "#1D1D1D",
@@ -205,8 +205,8 @@
 		"statusBar.background": "#151516",
 		"statusBar.border": "#151516",
 		"statusBar.debuggingBackground": "#151516",
-		"statusBar.debuggingBorder": "#FF9713",
-		"statusBar.debuggingForeground": "#FF9713",
+		"statusBar.debuggingBorder": "#E38711",
+		"statusBar.debuggingForeground": "#E38711",
 		"statusBar.foreground": "#808080",
 		"statusBar.noFolderBackground": "#151516",
 		"statusBar.noFolderBorder": "#151516",
@@ -226,38 +226,38 @@
 		"tab.unfocusedInactiveForeground": "#9fa6af",
 		// --- workbench: terminal
 		"terminal.ansiBlack": "#000000",
-		"terminal.ansiRed": "#ff628c",
-		"terminal.ansiGreen": "#3ad900",
-		"terminal.ansiYellow": "#FF9713",
+		"terminal.ansiRed": "#CF4F71",
+		"terminal.ansiGreen": "#2DA800",
+		"terminal.ansiYellow": "#E38711",
 		"terminal.ansiBlue": "#0088ff",
 		"terminal.ansiMagenta": "#fb94ff",
-		"terminal.ansiCyan": "#80fcff",
+		"terminal.ansiCyan": "#6CD4D6",
 		"terminal.ansiWhite": "#ffffff",
 		"terminal.ansiBrightBlack": "#0050A4",
-		"terminal.ansiBrightRed": "#ff628c",
-		"terminal.ansiBrightGreen": "#3ad900",
-		"terminal.ansiBrightYellow": "#FF9713",
+		"terminal.ansiBrightRed": "#CF4F71",
+		"terminal.ansiBrightGreen": "#2DA800",
+		"terminal.ansiBrightYellow": "#E38711",
 		"terminal.ansiBrightBlue": "#0088ff",
 		"terminal.ansiBrightMagenta": "#fb94ff",
-		"terminal.ansiBrightCyan": "#80fcff",
+		"terminal.ansiBrightCyan": "#6CD4D6",
 		"terminal.ansiBrightWhite": "#151516",
 		"terminal.background": "#151516",
-		"terminal.foreground": "#ffffff",
-		"terminalCursor.background": "#FF9713",
-		"terminalCursor.foreground": "#FF9713",
+		"terminal.foreground": "#9fa6af",
+		"terminalCursor.background": "#E38711",
+		"terminalCursor.foreground": "#E38711",
 		// Git status colors in File Explorer
-		"gitDecoration.modifiedResourceForeground": "#FF9713",
-		"gitDecoration.deletedResourceForeground": "#ff628c",
-		"gitDecoration.untrackedResourceForeground": "#3ad900",
+		"gitDecoration.modifiedResourceForeground": "#E38711",
+		"gitDecoration.deletedResourceForeground": "#CF4F71",
+		"gitDecoration.untrackedResourceForeground": "#76871F",
 		"gitDecoration.ignoredResourceForeground": "#747476",
-		"gitDecoration.conflictingResourceForeground": "#FF7200",
+		"gitDecoration.conflictingResourceForeground": "#E38711",
 		// textBlockQuote
 		"textBlockQuote.background": "#151516",
 		"textBlockQuote.border": "#0088ff60",
 		"textCodeBlock.background": "#151516",
 		"textLink.activeForeground": "#0088ff",
 		"textLink.foreground": "#0088ff",
-		"textPreformat.foreground": "#FF9713",
+		"textPreformat.foreground": "#E38711",
 		"textSeparator.foreground": "#151516",
 		"titleBar.activeBackground": "#151516",
 		"titleBar.activeForeground": "#aacfd1",
@@ -305,14 +305,14 @@
 			"name": "Storage Type Function",
 			"scope": "storage.type.function",
 			"settings": {
-				"foreground": "#FF9713"
+				"foreground": "#E38711"
 			}
 		},
 		{
 			"name": "Keyword",
 			"scope": "keyword, storage.type.class",
 			"settings": {
-				"foreground": "#FF9713"
+				"foreground": "#E38711"
 			}
 		},
 		{
@@ -351,21 +351,21 @@
 			"name": "Punctuation Parameters",
 			"scope": "punctuation.definition.parameters",
 			"settings": {
-				"foreground": "#ffee80"
+				"foreground": "#C7BA64"
 			}
 		},
 		{
 			"name": "Punctuation Template Expression",
 			"scope": "punctuation.definition.template-expression",
 			"settings": {
-				"foreground": "#ffee80"
+				"foreground": "#C7BA64"
 			}
 		},
 		{
 			"name": "Storage",
 			"scope": "storage",
 			"settings": {
-				"foreground": "#FF9713"
+				"foreground": "#E38711"
 			}
 		},
 		{
@@ -444,7 +444,7 @@
 				"source.stylus entity"
 			],
 			"settings": {
-				"foreground": "#3ad900"
+				"foreground": "#279100"
 			}
 		},
 		{
@@ -458,7 +458,7 @@
 			"name": "[CSS] - Element Selector",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#9EFFFF"
+				"foreground": "#6BADAD"
 			}
 		},
 		{
@@ -468,7 +468,7 @@
 				"source.stylus support"
 			],
 			"settings": {
-				"foreground": "#a5ff90"
+				"foreground": "#96E883"
 			}
 		},
 		{
@@ -480,7 +480,7 @@
 				"source.stylus support.constant"
 			],
 			"settings": {
-				"foreground": "#ffee80"
+				"foreground": "#C7BA64"
 			}
 		},
 		{
@@ -492,7 +492,7 @@
 				"source.stylus punctuation.definition.string"
 			],
 			"settings": {
-				"foreground": "#ffee80"
+				"foreground": "#C7BA64"
 			}
 		},
 		{
@@ -502,14 +502,14 @@
 				"source.stylus variable"
 			],
 			"settings": {
-				"foreground": "#9effff"
+				"foreground": "#6BADAD"
 			}
 		},
 		{
 			"name": "[HTML] - Entity Name",
 			"scope": "text.html.basic entity.name",
 			"settings": {
-				"foreground": "#9effff"
+				"foreground": "#6BADAD"
 			}
 		},
 		{
@@ -524,21 +524,21 @@
 			"scope": "text.html.basic entity.other",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FF9713"
+				"foreground": "#E38711"
 			}
 		},
 		{
 			"name": "[HTML] - Script Tag",
 			"scope": "meta.tag.metadata.script.html entity.name.tag.html",
 			"settings": {
-				"foreground": "#FF9713"
+				"foreground": "#E38711"
 			}
 		},
 		{
 			"name": "[HTML] - Quotes. these are a slightly different colour because expand selection will then not include quotes",
 			"scope": "punctuation.definition.string.begin, punctuation.definition.string.end",
 			"settings": {
-				"foreground": "#92fc79"
+				"foreground": "#227986"
 			}
 		},
 		{
@@ -552,21 +552,21 @@
 			"name": "[INI] - Keyword",
 			"scope": "source.ini keyword",
 			"settings": {
-				"foreground": "#FF9713"
+				"foreground": "#E38711"
 			}
 		},
 		{
 			"name": "[INI] - Punctuation Definition",
 			"scope": "source.ini punctuation.definition",
 			"settings": {
-				"foreground": "#ffee80"
+				"foreground": "#C7BA64"
 			}
 		},
 		{
 			"name": "[INI] - Punctuation Separator",
 			"scope": "source.ini punctuation.separator",
 			"settings": {
-				"foreground": "#ff9d00"
+				"foreground": "#E38711"
 			}
 		},
 		{
@@ -601,7 +601,7 @@
 			"name": "[JSON] - Support",
 			"scope": "source.json support",
 			"settings": {
-				"foreground": "#FF9713"
+				"foreground": "#E38711"
 			}
 		},
 		{
@@ -629,7 +629,7 @@
 				"markup.heading.setext.2.markdown"
 			],
 			"settings": {
-				"foreground": "#FF9713",
+				"foreground": "#E38711",
 				"fontStyle": "bold"
 			}
 		},
@@ -644,7 +644,7 @@
 			"name": "[MARKDOWN] - Quote Punctuation",
 			"scope": "beginning.punctuation.definition.quote.markdown",
 			"settings": {
-				"foreground": "#FF9713"
+				"foreground": "#E38711"
 			}
 		},
 		{
@@ -652,14 +652,14 @@
 			"scope": "markup.quote.markdown meta.paragraph.markdown",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#9effff"
+				"foreground": "#6BADAD"
 			}
 		},
 		{
 			"name": "[MARKDOWN] - Separator",
 			"scope": "meta.separator.markdown",
 			"settings": {
-				"foreground": "#FF9713"
+				"foreground": "#E38711"
 			}
 		},
 		{
@@ -667,7 +667,7 @@
 			"scope": "markup.bold.markdown",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#9effff"
+				"foreground": "#6BADAD"
 			}
 		},
 		{
@@ -675,14 +675,14 @@
 			"scope": "markup.italic.markdown",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#9effff"
+				"foreground": "#6BADAD"
 			}
 		},
 		{
 			"name": "[MARKDOWN] - Lists",
 			"scope": "beginning.punctuation.definition.list.markdown",
 			"settings": {
-				"foreground": "#FF9713"
+				"foreground": "#E38711"
 			}
 		},
 		{
@@ -710,7 +710,7 @@
 				"markup.underline.link.image.markdown"
 			],
 			"settings": {
-				"foreground": "#9effff"
+				"foreground": "#6BADAD"
 			}
 		},
 		{
@@ -720,7 +720,7 @@
 				"markup.inline.raw.markdown"
 			],
 			"settings": {
-				"foreground": "#9effff"
+				"foreground": "#6BADAD"
 			}
 		},
 		{
@@ -730,14 +730,14 @@
 				"markup.inline.raw.markdown"
 			],
 			"settings": {
-				"foreground": "#9effff"
+				"foreground": "#6BADAD"
 			}
 		},
 		{
 			"name": "[PUG] - Entity Name",
 			"scope": "text.jade entity.name",
 			"settings": {
-				"foreground": "#9effff"
+				"foreground": "#6BADAD"
 			}
 		},
 		{
@@ -751,21 +751,21 @@
 			"name": "[PUG] - String Interpolated",
 			"scope": "text.jade string.interpolated",
 			"settings": {
-				"foreground": "#ffee80"
+				"foreground": "#C7BA64"
 			}
 		},
 		{
 			"name": "[TYPESCRIPT] - Entity Name Type",
 			"scope": "source.ts entity.name.type",
 			"settings": {
-				"foreground": "#80ffbb"
+				"foreground": "#60BF8C"
 			}
 		},
 		{
 			"name": "[TYPESCRIPT] - Keyword",
 			"scope": "source.ts keyword",
 			"settings": {
-				"foreground": "#FF9713"
+				"foreground": "#E38711"
 			}
 		},
 		{
@@ -779,14 +779,14 @@
 			"name": "[TYPESCRIPT] - Punctuation Arrow Parameters",
 			"scope": "meta.arrow.ts punctuation.definition.parameters",
 			"settings": {
-				"foreground": "#ffee80"
+				"foreground": "#C7BA64"
 			}
 		},
 		{
 			"name": "[TYPESCRIPT] - Storage",
 			"scope": "source.ts storage",
 			"settings": {
-				"foreground": "#9effff"
+				"foreground": "#6BADAD"
 			}
 		},
 		{
@@ -807,35 +807,35 @@
 			"name": "[PHP] - Entity",
 			"scope": "source.php entity",
 			"settings": {
-				"foreground": "#9effff"
+				"foreground": "#6BADAD"
 			}
 		},
 		{
 			"name": "[PHP] - Variables",
 			"scope": "variable.other.php",
 			"settings": {
-				"foreground": "#FF9713"
+				"foreground": "#E38711"
 			}
 		},
 		{
 			"name": "[C#] - Annotations",
 			"scope": "storage.type.cs",
 			"settings": {
-				"foreground": "#9effff"
+				"foreground": "#6BADAD"
 			}
 		},
 		{
 			"name": "[C#] - Properties",
 			"scope": "entity.name.variable.property.cs",
 			"settings": {
-				"foreground": "#9effff"
+				"foreground": "#6BADAD"
 			}
 		},
 		{
 			"name": "[C#] - Storage modifiers",
 			"scope": "storage.modifier.cs",
 			"settings": {
-				"foreground": "#80ffbb"
+				"foreground": "#60BF8C"
 			}
 		},
 		{
@@ -867,7 +867,7 @@
 			"name": "[CSHARP] - Storage types",
 			"scope": "storage.type.cs",
 			"settings": {
-				"foreground": "#80ffbb"
+				"foreground": "#60BF8C"
 			}
 		},
 		{
